@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pemdaftaran</string>
+
+    <string name="app_title">Pendaftaran</string>
+
+    <string name="form_text">Isi form ini untuk daftar sebagai user </string>
+    <string name="form_name">Nama </string>
+    <string name="form_email">email</string>
+    <string name="form_phone">Nomor Telepon</string>
+    <string name="form_pwd">Password </string>
+    <string name="form_check">aya telah membaca dan menyetujui </string>
+    <string name="btn_go">kirim</string>
+
+
+
+</resources>

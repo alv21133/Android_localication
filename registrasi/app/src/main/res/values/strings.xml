@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">registrasi</string>
+
+    <string name="app_title">registrasi</string>
+
+    <string name="form_text">fill in this fomr to  register as user </string>
+    <string name="form_name">Full Name </string>
+    <string name="form_email">email</string>
+    <string name="form_phone">Phone Number</string>
+    <string name="form_pwd">password </string>
+    <string name="form_check">i have read and agree the terms </string>
+    <string name="btn_go">submit</string>
+
+
+
+</resources>
